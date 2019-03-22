@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFFFF</color>
+    <color name="colorPrimaryDark">#FF000000</color>
+    <color name="colorAccent">#454545</color>
+
+    <!--纯白色-->
+    <color name="theme_white">#ffffff</color>
+    <color name="white">#FFFFFF</color>
+    <!--红色-->
+    <color name="theme_red">#CB1920</color>
+    <!--主背景-->
+    <color name="theme_background">#FFF6F6F6</color>
+    <!--暗背景-->
+    <color name="transparent">#00FFFFFF</color>
+
+
+    <color name="light_gray">#A9A9A9</color>
+    <color name="formalFont">#333</color>
+    <color name="grayFont">#888</color>
+
+</resources>

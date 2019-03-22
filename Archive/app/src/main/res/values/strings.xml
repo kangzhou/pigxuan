@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestApis</string>
+    <string name="hygiene_rating">HYGIENE RATING</string>
+    <string name="the_last_time">last inspection:</string>
+    <string name="search_hint">searching by name, location</string>
+    <string name="favour">MY FAVOURS</string>
+    <string name="type">Type</string>
+    <string name="region">Region</string>
+    <string name="rating">Rating</string>
+    <string name="sample_name">Sample Name</string>
+    <string name="test_text">534-541 Bristol Road, Birmingham, B29 6AU, United Kingdom. TextView</string>
+</resources>
